@@ -1,6 +1,5 @@
 ---
 title: "Reconheço as responsabilidades inerentes à liberdade pessoal em democracia"
-date: 
 layout: post
 categories: 
 tags: 
