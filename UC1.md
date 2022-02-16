@@ -21,6 +21,7 @@ Reconhecer os **direitos e deveres** fundamentais em diferentes contextos: **pes
 - Reflexão
 «Refiro-me ao exercício da Liberdade e Responsabilidade a nível pessoal. No meu dia-a-dia sou confrontado com a necessidade de fazer opções.»
 
+[Enunciado do trabalho](https://github.com/aesjemiguel/EFA-C2/blob/main/AESJE_EFA_C2_UC1_DR1_1.pdf)
 
 ### Compromisso Cidadão/Estado
 - Conceitos-chave: identidade; liberdade; igualdade; participação; cidadania; Estado; democracia; sociedade civil; organização política dos estados democráticos
